@@ -85,5 +85,5 @@ I share insights on:
 
 ##  Fun Fact
 
-I’m building toward becoming a **world-class systems engineer at the frontier of AI and industry**.
-I play competitive club tennis at [Ely Tennis Club](https://clubspark.lta.org.uk/elytennisclub)
+- I’m building toward becoming a **world-class systems engineer at the frontier of AI and industry**.
+- I play competitive club tennis at [Ely Tennis Club](https://clubspark.lta.org.uk/elytennisclub)
