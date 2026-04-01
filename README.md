@@ -78,9 +78,10 @@ I share insights on:
 
 
 
-##  Let’s Connect :  [gmail](bkafumbata@gmail.com)
+##  Let’s Connect 
+[gmail](bkafumbata@gmail.com)
 
----
+
 
 ##  Fun Fact
 
