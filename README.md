@@ -9,9 +9,9 @@ I build and think in **systems** , not just code.
 ##  About Me
 
 - Education:
- **MPhil Industrial Systems Engineering @ University of Cambridge**
+ 1. **MPhil Industrial Systems Engineering @ University of Cambridge**
    
- **Bachelors in Chemical Engineering @ Edinburgh University**  
+ 2. **Bachelors in Chemical Engineering @ Edinburgh University**  
 - Experience across :
   **Industrial AI, enterprise systems, and operational optimisation**  
 - Interested in :
