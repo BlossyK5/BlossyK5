@@ -1,17 +1,20 @@
 
-# 👋 Hi, I’m Blossom
+# Hi, I’m Blossom
 I am a systems-minded engineer at the intersection of AI, industrial systems, and real-world deployment.
 
 I build and think in **systems** , not just code.
 
----
+
 
 ##  About Me
 
-- 🎓 MPhil Industrial Systems Engineering @ University of Cambridge  
-- 🧠 Background in Chemical Engineering @ Edinburgh University  
-- ⚙️ Experience across **Industrial AI, enterprise systems, and operational optimisation**  
-- 🌍 Interested in **AI for industry, cloud infrastructure, and real-world impact**
+- Education:
+ **MPhil Industrial Systems Engineering @ University of Cambridge**  
+ **Background in Chemical Engineering @ Edinburgh University**  
+- Experience across :
+  **Industrial AI, enterprise systems, and operational optimisation**  
+- Interested in :
+   **AI for industry, cloud infrastructure, and real-world impact**
 
 I’m particularly drawn to:
 - Forward Deployed Engineering
@@ -19,9 +22,9 @@ I’m particularly drawn to:
 - Cloud Operations & Infrastructure in physical industries
 - Enterprise integrations & system design
 
----
 
-## 🧠 What I Think About
+
+##  What I Think About
 
 - AI is not just models — it’s **systems, infrastructure, and deployment**
 - The real leverage is in:
@@ -31,9 +34,9 @@ I’m particularly drawn to:
   - Underlying cloud infrastructure
 - The future engineer = **technical + systems + business aware**
 
----
 
-## 🛠️ Tech & Tools
+
+## Tech & Tools
 
 **Languages**
 - Python
@@ -53,7 +56,7 @@ I’m particularly drawn to:
 - Cloud Operations & Infrastructure
 
 
-## 🧩 How I Work
+##  How I Work
 
 - I think in **end-to-end systems**, not isolated features  
 - I care about **real-world impact**, not just technical elegance  
@@ -62,9 +65,9 @@ I’m particularly drawn to:
   - speed of learning
   - value delivery  
 
----
 
-## ✍🏾 Writing & Thinking
+
+## Writing & Thinking
 
 I share insights on:
 - AI + careers  
@@ -73,15 +76,13 @@ I share insights on:
 
 📌 [LinkedIn](https://www.linkedin.com/in/blossom-tariro-kafumbata/)
 
----
 
-## 🤝 Let’s Connect
 
-- ✉️ [gmail] (bkafumbata@gmail.com)
+##  Let’s Connect :  [gmail](bkafumbata@gmail.com)
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
 I’m building toward becoming a **world-class systems engineer at the frontier of AI and industry**.
 I play competitive club tennis at [Ely Tennis Club](https://clubspark.lta.org.uk/elytennisclub)
