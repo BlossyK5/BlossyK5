@@ -26,7 +26,7 @@ I’m particularly drawn to:
 
 ##  What I Think About
 
-- AI is not just models — it’s **systems, infrastructure, and deployment**
+- AI is not just models , it’s **systems, infrastructure, and deployment**
 - The real leverage is in:
   - Integrations
   - Workflows
