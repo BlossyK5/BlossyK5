@@ -10,7 +10,7 @@ I build and think in **systems** , not just code.
 
 - 🎓 MPhil Industrial Systems Engineering @ University of Cambridge  
 - 🧠 Background in Chemical Engineering (Edinburgh University)  
-- ⚙️ Experience across **AI, enterprise systems, and operational optimisation**  
+- ⚙️ Experience across **Industrial AI, enterprise systems, and operational optimisation**  
 - 🌍 Interested in **AI for industry, cloud infrastructure, and real-world impact**
 
 I’m particularly drawn to:
