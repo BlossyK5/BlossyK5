@@ -1,21 +1,21 @@
 
 # 👋 Hi, I’m Blossom
-Systems-minded engineer at the intersection of AI, industrial systems, and real-world deployment.
+I am a systems-minded engineer at the intersection of AI, industrial systems, and real-world deployment.
 
-I build and think in **systems** — not just code.
+I build and think in **systems** , not just code.
 
 ---
 
 ##  About Me
 
 - 🎓 MPhil Industrial Systems Engineering @ University of Cambridge  
-- 🧠 Background in Chemical Engineering (Edinburgh)  
+- 🧠 Background in Chemical Engineering (Edinburgh University)  
 - ⚙️ Experience across **AI, enterprise systems, and operational optimisation**  
 - 🌍 Interested in **AI for industry, cloud infrastructure, and real-world impact**
 
 I’m particularly drawn to:
--Forward Deployed Engineering
-- AI in physical industries (manufacturing, energy, logistics)
+- Forward Deployed Engineering
+- AI & other software applications in physical industries (manufacturing, energy, logistics)
 - Cloud Operations & Infrastructure in physical industries
 - Enterprise integrations & system design
 
@@ -28,6 +28,7 @@ I’m particularly drawn to:
   - Integrations
   - Workflows
   - Value delivery
+  - Underlying cloud infrastructure
 - The future engineer = **technical + systems + business aware**
 
 ---
@@ -47,7 +48,7 @@ I’m particularly drawn to:
 
 **Currently Exploring**
 - AI systems design
-- Upskilling through gaining certification:[AWS Cloud Practioner Certificate] (https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- Upskilling through gaining certification:[AWS Cloud Practioner Certificate](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 - LLM applications in physical industries
 - Cloud Operations & Infrastructure
 
@@ -70,7 +71,7 @@ I share insights on:
 - Systems thinking  
 - How STEM professionals can stay ahead  
 
-📌 [LinkedIn] (https://www.linkedin.com/in/blossom-tariro-kafumbata/)
+📌 [LinkedIn](https://www.linkedin.com/in/blossom-tariro-kafumbata/)
 
 ---
 
@@ -83,4 +84,4 @@ I share insights on:
 ## ⚡ Fun Fact
 
 I’m building toward becoming a **world-class systems engineer at the frontier of AI and industry**.
-I play competitive club tennis at [Ely Tennis Club] (https://clubspark.lta.org.uk/elytennisclub)
+I play competitive club tennis at [Ely Tennis Club](https://clubspark.lta.org.uk/elytennisclub)
