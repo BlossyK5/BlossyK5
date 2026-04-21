@@ -18,7 +18,7 @@ I build and think in **systems** , not just code.
    **AI for industry, cloud infrastructure, and real-world impact**
 
 I’m particularly drawn to:
-- Forward Deployed Engineering
+- Deployment Strategist, Solutions Engineering & Forward Deployed Engineering Related Roles
 - AI & other software applications in physical industries (manufacturing, energy, logistics)
 - Cloud Operations & Infrastructure in physical industries
 - Enterprise integrations & system design
